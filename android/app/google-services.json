@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389586994993",
+    "project_id": "rnpoc-44df0",
+    "storage_bucket": "rnpoc-44df0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389586994993:android:71f6e8dd45fafdc6705210",
+        "android_client_info": {
+          "package_name": "io.ckl.rnpoc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7gSpe3FgjcL47ASGx97A7y4mOp5V84Gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
