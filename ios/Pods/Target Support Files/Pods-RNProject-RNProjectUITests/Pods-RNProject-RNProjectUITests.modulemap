@@ -1,0 +1,6 @@
+framework module Pods_RNProject_RNProjectUITests {
+  umbrella header "Pods-RNProject-RNProjectUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
